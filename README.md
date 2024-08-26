@@ -13,7 +13,8 @@ $ docker-compose up
 
 Without Docker:
 
-$ git clone https://github.com/AnteMarin/UrlShortener-API.git
+$ git clone https://github.com/Blackshadow729/URL-shortner-service.git
+
 
 - Make sure you have access to local or any MySQL server.
 
